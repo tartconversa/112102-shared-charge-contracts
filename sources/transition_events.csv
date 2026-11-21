@@ -1,0 +1,5 @@
+event,right,day,state,effective_minute,temporary_site
+C1,R1,2,offered,225,B
+C2,R3,2,accepted,225,A
+C3,R1,4,partial_signed,240,B
+C4,R1,6,handoff_received,255,B

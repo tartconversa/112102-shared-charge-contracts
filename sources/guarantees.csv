@@ -1,0 +1,4 @@
+right,client,home,reserve_site,start_minute,end_minute,firm_kw,reserve_kw,contract
+R1,U1,A,B,195,270,32,12,old
+R2,U2,B,A,210,270,25,13,old
+R3,U3,B,A,225,300,12,9,new

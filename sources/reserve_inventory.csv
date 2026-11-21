@@ -1,0 +1,4 @@
+site,from_min,to_min,free_kw,known_day,state
+A,195,300,18,1,verified
+B,195,300,18,1,verified
+B,225,270,10,5,reduced

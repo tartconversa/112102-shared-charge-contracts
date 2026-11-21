@@ -1,0 +1,7 @@
+station,meter,parent,role,capacity_kw
+A,main,,supply,60
+A,sub1,main,tenant,36
+A,buffer,main,buffer,15
+B,main,,supply,55
+B,sub1,main,tenant,28
+B,buffer,main,buffer,13
